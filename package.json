@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-portfolio-cara",
-  "description": "Playful & Colorful One-Page website with Parallax effect powered by react-spring, TailwindCSS.",
+  "name": "mokko-labs-2019-website",
+  "description": "Mokko Labs official website.",
   "version": "3.0.0",
-  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+  "author": "Mitesh Shah <mitesh@mokko.io>",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
@@ -53,11 +53,11 @@
     "prettier": "^1.17.0"
   },
   "repository": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
+    "url": "https://github.com/mitesh-mokko/mokko-labs-2019",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara/issues"
+    "url": "https://github.com/mitesh-mokko/mokko-labs-2019/issues"
   },
-  "homepage": "https://cara.lekoarts.de"
+  "homepage": "https://mokko.io"
 }
